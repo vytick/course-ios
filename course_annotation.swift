@@ -1,5 +1,4 @@
 
-
 /*
     Kurz programování pro iOS vás naučí základní principy tvorby aplikací pro iOS,
     představí vám programovací jazyk Swift a vlastní aplikaci si spolu také vytvoříme.
@@ -8,16 +7,16 @@
 class iOS {
     
     
-    var kdy = "5 pondělků 18-21 počínaje 18.4.2016"
+    var kdy = "5 pondělků 18-21 hod počínaje 18.4.2016"
     var kde = "Paralelní Polis, Praha"
-    var kolikToStojí = "cena za celý kurz je   XXXX,- Kč"
+    var kolikToStojí = "cena za celý kurz je 1000,- Kč"
     
     var coKTomuPotřebuju = "Vlastní MacBook a základní znalosti programování v libovolném jazyce"
-    
+    var kolikNasBude = "Bude nás maximálně 10"
     var sKým = "kurz povede Martin Vytrhlík"
     
-    // konkrétní obsah jednotlivých lekcí přizpůsobíme tempu a může se stát,
-    // že toho zvládneme mnohem více. Tady je základní přehled toho, co bychom měli zvládnout
+    // konkrétní obsah jednotlivých lekcí přizpůsobíme tempu a naší domluvě a může se stát,
+    // že toho zvládneme mnohem více. Tady je základní přehled toho, co bychom měli zvládnout:
     
     func prvníLekce() {
         // 1.
