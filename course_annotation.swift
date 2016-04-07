@@ -9,7 +9,7 @@ class iOS {
     
     var kdy = "5 pondělků 18-21 hod počínaje 18.4.2016"
     var kde = "Paralelní Polis, Praha"
-    var kolikToStojí = "cena za celý kurz je 1000,- Kč"
+    var kolikToStojí = "cena za celý kurz je 1000,- Kč plus DPH"
     
     var coKTomuPotřebuju = "Vlastní MacBook a základní znalosti programování v libovolném jazyce"
     var kolikNasBude = "Bude nás maximálně 10"
